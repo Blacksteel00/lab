@@ -1,0 +1,17 @@
+// Reset
+
+@import "_reset.scss";
+
+// Styles
+
+html, body, #container {
+	overflow: hidden;
+ 	width: 100%;
+ 	height: 100%;
+}
+
+#container {
+	background-color: white;
+ 	background-image: url(../img/bg-grid.png);
+ 	background-size: 50px;
+}
